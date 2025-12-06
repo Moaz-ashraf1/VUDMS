@@ -190,6 +190,15 @@ The platform also includes a delivery job application page for village residents
 
 ---
 
+## ERD
+<p align="center">
+  <img src="ERD.png" width="500">
+  <br>
+  <em>Diagram showing the main entities in the VUDMS system and the relationships between them, including Customers, Stores, Products, Orders, Delivery Drivers, and Admin.</em>
+</p>
+
+---
+
 ## ⭐ Use Case : Customer Places Order
 
 
