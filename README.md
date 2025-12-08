@@ -203,7 +203,7 @@ The platform also includes a delivery job application page for village residents
 
 
 <p align="center">
-  <img src="usecase2.png" width="500">
+  <img src="usecase2.png" width="1000">
   <br>
   <em>Use Case Diagram showing the steps a customer takes to place an order, from browsing stores to completing payment.</em>
 </p>
