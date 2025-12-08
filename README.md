@@ -3,12 +3,28 @@
 
 ---
 
-## ✅ Vision
-The system aims to solve communication and service accessibility issues faced by village residents, where customers traditionally contact supermarkets, restaurants, and pharmacies by phone in a manual and inefficient way. Customers are often unaware of all available stores or newly opened shops, limiting visibility and making ordering difficult. Store owners currently manage inventory manually using paper-based methods.
+## ✅Vision
+To create a unified digital environment connecting all supermarkets, restaurants, pharmacies, and essential services within the village. The platform aims to make it easier for customers to access services, improve store inventory management, and ensure safe and reliable delivery through local drivers.
 
-The platform provides a unified digital environment for all supermarkets, restaurants, pharmacies, and essential services within the village. Customers can browse stores, view menus/products, place orders, track order status end-to-end, and pay seamlessly. Store owners get a dedicated interface to manage inventory digitally and maintain accurate stock levels.
+## ✅Goal
+The goal of this platform is to develop a practical mobile app that benefits all parties:
 
-The platform also includes a delivery job application page for village residents, ensuring that all drivers are from within the village for trust and safety. Customers can rate both stores and delivery drivers, improving service quality and transparency.
+- **Users (Customers):** Browse stores, place and pay for orders online or upon delivery, track orders in real-time, and provide reviews.  
+- **Store Owners:** Digitally manage inventory, efficiently receive and coordinate orders, and submit requests to add their store to the platform.  
+- **Local Youth:** Apply for delivery driver positions, supporting local employment and economic growth.
+
+## ✅ What is it?
+The Village Services App is a mobile application that connects village residents with local stores and services, enabling them to place orders, make payments, track orders in real-time, and provide service reviews. Store owners can request to join the platform, review and update their information, and once approved, their store is added to the system. Additionally, the app allows local youth to apply for delivery driver positions, promoting employment within the village.
+
+---
+
+## ✅Domain
+
+**Context:** Management of orders, services, and delivery within the village, connecting residents, store owners, and local youth.  
+
+**Current State:** Residents place orders manually by phone, store owners manage inventory on paper, and delivery coordination is done via calls or in-person arrangements. Visibility of available stores and new services is limited.  
+
+**Future State:** Fully digital platform where residents can browse stores and services, place and pay for orders online or on delivery, track orders in real-time, and provide reviews
 
 ---
 
