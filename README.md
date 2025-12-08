@@ -233,16 +233,9 @@ The platform also includes a delivery job application page for village residents
 ### Flow Diagram: Customer Makes an Order
 
 <p align="center">
-  <img src="flow1.png" width="500">
+  <img src="flowchart.png" width="800">
   <br>
   <em>Flowchart showing the step-by-step process a customer follows to place an order.</em>
 </p>
 
-### Flow Diagram: Customer Rates an Order or Makes a Complaint
-
-<p align="center">
-  <img src="flow2.png" width="500">
-  <br>
-  <em>Flowchart showing the steps for rating an order or submitting a complaint.</em>
-</p>
 
