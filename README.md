@@ -259,9 +259,15 @@ The Village Services App is a mobile application that connects village residents
 ## ⭐ Prototype / Initial UI Design
 
 <p align="center">
-  <img src="UI.png" width="800">
-  <br>
-  <em>Initial UI prototype visualizing the flowchart in a real-world interface for VUDMS, showing main pages and user navigation.</em>
+  <img src="ui/ui1.png" width="250">
+  <img src="ui/ui2.png" width="250">
+  <img src="ui/ui3.png" width="250">
+</p>
+
+<p align="center">
+  <img src="ui/ui4.png" width="250">
+  <img src="ui/ui5.png" width="250">
+  <img src="ui/ui6.png" width="250">
 </p>
 
 
